@@ -1,4 +1,4 @@
-baseURL     = "fftyyy.github.io" # develop
+baseURL     = "/" # develop
 
 publishDir = ".."
 
