@@ -3,7 +3,7 @@ title: Home
 description: "A personal website of Yang Yongyi."
 ---
 
-<img src="/images/partywizard.gif" style="display:inline-block;">
+<img src="/yyy/public/images/partywizard.gif" style="display:inline-block;">
 
 # Yang Yongyi(杨永祎)
 
