@@ -7,7 +7,7 @@ description: "A personal website of Yang Yongyi."
 
 # Yang Yongyi(杨永祎)
 
-Yongyi is a senior student at Fudan University, under supervision of by [Prof. Qiu Xipeng](https://xpqiu.github.io/). Currently he is having an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "However, this website is too ugly I don't recommend you visiting it...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Huang Zengfeng](https://cse.hkust.edu.hk/~huangzf/). 
+Yongyi is a senior student at Fudan University, under supervision of [Prof. Qiu Xipeng](https://xpqiu.github.io/). Currently he is having an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "However, this website is too ugly I don't recommend you visiting it...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Huang Zengfeng](https://cse.hkust.edu.hk/~huangzf/). 
 
 His recent research interests including graph neural networks and optimization-induced models.
 
