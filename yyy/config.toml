@@ -1,75 +1,48 @@
-baseURL 		= "/yyy/public/"
+# baseURL     = "fftyyy.github.io" # develop
+baseURL     = "/yyy/public/" # product
+
 languageCode 	= "en-us"
 title 			= "Yongyi Yang"
 
-theme 			= "soho"
-enableInlineShortcodes = true
-summarylength = 10
+theme 			= "classic"
+
 enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
-[params]
-author = "Yongyi Yang"
-description = ""
+[markup.goldmark.renderer]
+  unsafe = true
 
-## Set one of:
-gravatar = "1004473299@qq.com"
-# profilePicture = "images/profile.png"
-
-copyright = "Yongyi Yang"
-license = "CC BY-SA 4.0"
-licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-
-## Set custom theme color.
-themeColor = "#3377aa"
-
-## Set custom CSS and/or JS to override site defaults.
-# customCss = ["css/blog.css"]
-# customJs = ["js/blog.js"]
-
-  ## Set as many as you want.
-  [[params.socialIcons]]
-  icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "https://www.linkedin.com/in/yongyi-yang-528922218/"
-
-  [[params.socialIcons]]
-  icon = "fa-github"
-  title = "GitHub"
-  url = "https://github.com/FFTYYY"
-
-  # [[params.socialIcons]]
-  # icon = "fa-twitter"
-  # title = "Twitter"
-  # url = "#"
-
-[menu]
-
-  # [[menu.main]]
-  # name = "Posts"
-  # weight = 100
-  # identifier = "posts"
-  # url = "/posts/"
-
-  # [[menu.main]]
-  # name = "About"
-  # identifier = "about"
-  # weight = 300
-  # url = "/about/"
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-
-[markup]
-
-  [markup.highlight]
+[markup.highlight]
+  anchorLineNos = false
   codeFences = true
   guessSyntax = false
   hl_Lines = ""
+  lineAnchors = ""
   lineNoStart = 1
   lineNos = false
   lineNumbersInTable = true
-  noClasses = true # if false, you need to provide you own custom CSS
+  noClasses = true
   style = "monokai"
   tabWidth = 4
+
+[permalinks]
+  post = "/post/:year/:month/:day/:slug/"
+
+# [[menu.main]]
+#   name = "Categories"
+#   url = "/categories/"
+#   weight = 1
+# [[menu.main]]
+#   name = "Tags"
+#   url = "/tags/"
+#   weight = 2
+# [[menu.feed]]
+#   name = "Subscribe"
+#   url = "/index.xml"
+
+[params]
+  custom_css = ["css/theme-override.css"]
+  description = "A simple, minimal blog for those who love text."
+  footer = "Theme: Hugo-Classic | [Github](https://github.com/goodroot/hugo-classic)"

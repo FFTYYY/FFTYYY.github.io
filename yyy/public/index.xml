@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yongyi Yang</title>
+    <title>Home on Yongyi Yang</title>
     <link>/yyy/public/</link>
-    <description>Recent content on Yongyi Yang</description>
+    <description>Recent content in Home on Yongyi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 09 Oct 2021 23:35:15 +0800</lastBuildDate><atom:link href="/yyy/public/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>/yyy/public/posts/test/</link>
-      <pubDate>Sat, 09 Oct 2021 23:35:15 +0800</pubDate>
-      
-      <guid>/yyy/public/posts/test/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="/yyy/public/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
