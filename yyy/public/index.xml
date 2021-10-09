@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yongyi Yang</title>
-    <link>fftyyy.github.io/yyy/public/</link>
+    <link>/yyy/public/</link>
     <description>Recent content on Yongyi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Oct 2021 23:35:15 +0800</lastBuildDate><atom:link href="fftyyy.github.io/yyy/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 23:35:15 +0800</lastBuildDate><atom:link href="/yyy/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>fftyyy.github.io/yyy/public/posts/test/</link>
+      <link>/yyy/public/posts/test/</link>
       <pubDate>Sat, 09 Oct 2021 23:35:15 +0800</pubDate>
       
-      <guid>fftyyy.github.io/yyy/public/posts/test/</guid>
+      <guid>/yyy/public/posts/test/</guid>
       <description></description>
     </item>
     

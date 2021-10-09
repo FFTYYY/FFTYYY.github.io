@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>fftyyy.github.io/yyy/public/posts/</loc>
+    <loc>/yyy/public/posts/</loc>
     <lastmod>2021-10-09T23:35:15+08:00</lastmod>
   </url><url>
-    <loc>fftyyy.github.io/yyy/public/posts/test/</loc>
+    <loc>/yyy/public/posts/test/</loc>
     <lastmod>2021-10-09T23:35:15+08:00</lastmod>
   </url><url>
-    <loc>fftyyy.github.io/yyy/public/</loc>
+    <loc>/yyy/public/</loc>
     <lastmod>2021-10-09T23:35:15+08:00</lastmod>
   </url><url>
-    <loc>fftyyy.github.io/yyy/public/categories/</loc>
+    <loc>/yyy/public/categories/</loc>
   </url><url>
-    <loc>fftyyy.github.io/yyy/public/series/</loc>
+    <loc>/yyy/public/series/</loc>
   </url><url>
-    <loc>fftyyy.github.io/yyy/public/tags/</loc>
+    <loc>/yyy/public/tags/</loc>
   </url>
 </urlset>
