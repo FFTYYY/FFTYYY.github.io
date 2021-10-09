@@ -20,7 +20,7 @@ E-mail: `echo eW9uZ3lpeWFuZzE3QGZ1ZGFuLmVkdS5jbgo= | base64 -d`
 +	[Graph Neural Networks Inspired by Classical Iterative Algorithms](https://arxiv.org/abs/2103.06064)
   	*__Yongyi Yang__ , Tang Liu, Yangkun Wang, Jinjing Zhou, Quan Gan, Zhewei Wei, Zheng Zhang, Zengfeng Huang, David Wipf*
 
-	ICML 2021, Long Talk
+	ICML 2021, long talk
 
 +	[Relation of the Relations: A New Paradigm of the Relation Extraction Problem](https://arxiv.org/abs/2006.03719)
 	*Zhijing Jin\*, __Yongyi Yang\*__, Xipeng Qiu, Zheng Zhang*
