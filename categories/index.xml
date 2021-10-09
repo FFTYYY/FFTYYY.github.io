@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yongyi Yang</title>
-    <link>/yyy/public/categories/</link>
+    <link>fftyyy.github.io/categories/</link>
     <description>Recent content in Categories on Yongyi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/yyy/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="fftyyy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

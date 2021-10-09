@@ -1,5 +1,6 @@
-# baseURL     = "fftyyy.github.io" # develop
-baseURL     = "/yyy/public/" # product
+baseURL     = "fftyyy.github.io" # develop
+
+publishDir = ".."
 
 languageCode 	= "en-us"
 title 			= "Yongyi Yang"
