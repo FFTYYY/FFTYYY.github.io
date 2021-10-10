@@ -12,8 +12,9 @@ Yongyi is a senior student at Fudan University, under supervision of [Prof. Qiu 
 His recent research interests include graph representation learning and optimization-induced models.
 
 
-## Contact
-E-mail: `echo eW9uZ3lpeWFuZzE3QGZ1ZGFuLmVkdS5jbgo= | base64 -d`
+## Contact & Other info
++ E-mail: <u>yongyiyang17</u>@fudan.edu.cn
++ github: [FFTYYY](https://github.com/FFTYYY)
 
 ## Publications and Manuscripts
 
