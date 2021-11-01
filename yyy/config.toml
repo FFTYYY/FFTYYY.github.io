@@ -31,10 +31,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [permalinks]
   post = "/post/:year/:month/:day/:slug/"
 
-# [[menu.main]]
-#   name = "Categories"
-#   url = "/categories/"
-#   weight = 1
+[[menu.main]]
+  name = "CV"
+  url = "/CV.pdf"
+  weight = 1
 # [[menu.main]]
 #   name = "Tags"
 #   url = "/tags/"
