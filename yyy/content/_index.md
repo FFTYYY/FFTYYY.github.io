@@ -14,7 +14,7 @@ His recent research interests include graph representation learning and optimiza
 He is applying for Ph.D. study recently. 
 
 ## Contact & Other info
-+ E-mail: yongyiyang17 at fudan at edu at cn
++ E-mail: yongyiyang17 at fudan dot edu dot cn
 + github: [FFTYYY](https://github.com/FFTYYY)
 
 ## Publications and Manuscripts
