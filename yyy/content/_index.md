@@ -5,13 +5,13 @@ description: "A personal website of Yang Yongyi."
 
 <img src="/images/partywizard.gif" style="display:inline-block;">
 
-# Yang Yongyi(杨永祎)
+# Yang, Yongyi (杨永祎)
 
-Yongyi is a senior student at Fudan University, under supervision of [Prof. Qiu Xipeng](https://xpqiu.github.io/). Currently he is having an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "However, this website is too ugly I don't recommend you visiting it...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Huang Zengfeng](https://cse.hkust.edu.hk/~huangzf/). 
+Yongyi is a senior student at Fudan University, under supervision of [Prof. Qiu Xipeng](https://xpqiu.github.io/). Currently he is having an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "However, this website is too ugly I don't recommend you visiting it...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/). He also work closely with [Prof. Huang Zengfeng](https://zengfenghuang.github.io/). 
 
 His recent research interests include graph representation learning and optimization-induced models.
 
-He is going to the University of Michigan to persue Ph.D. study, under supervision of Prof. [Wei Hu](http://weihu.me/). 
+He is going to the University of Michigan to persue Ph.D. study, under the supervision of [Prof. Wei Hu](http://weihu.me/). 
 
 ## Contact & Other info
 + E-mail: yongyi at umich dot edu
@@ -45,4 +45,4 @@ He is going to the University of Michigan to persue Ph.D. study, under supervisi
 
 	arxiv preprint 
 
-(Last update: 22/06/08)
+(Last update: 22/06/09)
