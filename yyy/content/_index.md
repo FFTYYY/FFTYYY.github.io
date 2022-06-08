@@ -7,7 +7,7 @@ description: "A personal website of Yang Yongyi."
 
 # Yang, Yongyi (杨永祎)
 
-Yongyi is a senior student at Fudan University, under supervision of [Prof. Qiu Xipeng](https://xpqiu.github.io/). Currently he is having an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "However, this website is too ugly I don't recommend you visiting it...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/). He also work closely with [Prof. Huang Zengfeng](https://zengfenghuang.github.io/). 
+Yongyi is a senior student at Fudan University, under supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). Currently he is having an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "However, this website is too ugly I don't recommend you visiting it...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/). He also works closely with [Prof. Zengfeng Huang](https://zengfenghuang.github.io/). 
 
 His recent research interests include graph representation learning and optimization-induced models.
 
@@ -20,7 +20,7 @@ He is going to the University of Michigan to persue Ph.D. study, under the super
 ## Publications and Manuscripts
 
 +	[Transformers from an Optimization Perspective](https://arxiv.org/abs/2205.13891)
-	__Yongyi Yang__, Zengfeng Huang, David Wipf
+	*__Yongyi Yang__, Zengfeng Huang, David Wipf*
 
 	arxiv preprint
 
