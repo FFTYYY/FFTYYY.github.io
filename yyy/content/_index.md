@@ -11,26 +11,31 @@ Yongyi is a senior student at Fudan University, under supervision of [Prof. Qiu 
 
 His recent research interests include graph representation learning and optimization-induced models.
 
-He is applying for Ph.D. study recently. 
+He is going to the University of Michigan to persue Ph.D. study, under supervision of Prof. [Wei Hu](http://weihu.me/). 
 
 ## Contact & Other info
-+ E-mail: yongyiyang17 at fudan dot edu dot cn
++ E-mail: yongyi at umich dot edu
 + github: [FFTYYY](https://github.com/FFTYYY)
 
 ## Publications and Manuscripts
 
-+	[Graph Neural Networks Inspired by Classical Iterative Algorithms](https://arxiv.org/abs/2103.06064)
-  	*__Yongyi Yang__ , Tang Liu, Yangkun Wang, Jinjing Zhou, Quan Gan, Zhewei Wei, Zheng Zhang, Zengfeng Huang, David Wipf*
-
-	ICML 2021, long talk
-
-+	[Implicit vs Unfolded Graph Neural Networks](https://arxiv.org/abs/2111.06592)
-	*__Yongyi Yang__, Yangkun Wang, Zengfeng Huang, David Wipf*
++	[Transformers from an Optimization Perspective](https://arxiv.org/abs/2205.13891)
+	__Yongyi Yang__, Zengfeng Huang, David Wipf
 
 	arxiv preprint
 
 +	[Why Propagate Alone? Parallel Use of Labels and Features on Graphs](https://arxiv.org/abs/2110.07190)
 	*Yangkun Wang, Jiarui Jin, Weinan Zhang, __Yongyi Yang__, Jiuhai Chen, Quan Gan, Yong Yu, Zheng Zhang, Zengfeng Huang, David Wipf*
+
+	ICLR 2022
+
++	[Graph Neural Networks Inspired by Classical Iterative Algorithms](https://arxiv.org/abs/2103.06064)
+	*__Yongyi Yang__ , Tang Liu, Yangkun Wang, Jinjing Zhou, Quan Gan, Zhewei Wei, Zheng Zhang, Zengfeng Huang, David Wipf*
+
+	ICML 2021, long talk
+
++	[Implicit vs Unfolded Graph Neural Networks](https://arxiv.org/abs/2111.06592)
+	*__Yongyi Yang__, Yangkun Wang, Tang Liu, Zengfeng Huang, David Wipf*
 
 	arxiv preprint
 
@@ -40,3 +45,4 @@ He is applying for Ph.D. study recently.
 
 	arxiv preprint 
 
+(Last update: 22/06/08)
