@@ -5,24 +5,29 @@ description: "A personal website of Yang Yongyi."
 
 <img src="/images/partywizard.gif" style="display:inline-block;">
 
-# Yang, Yongyi (杨永祎)
+# Yongyi Yang (杨永祎)
 
-Yongyi is a senior student at Fudan University, under supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). Currently he is having an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "However, this website is too ugly I don't recommend you visiting it...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/). He also works closely with [Prof. Zengfeng Huang](https://zengfenghuang.github.io/). 
+Yongyi is a first-year Ph.D. student at University of Michigan, under the supervision of [Prof. Wei Hu](http://weihu.me/). His recent research interests include graph representation learning and the scientific foundations of deep learning. 
 
-His recent research interests include graph representation learning and optimization-induced models.
+Before that, Yongyi received Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
 
-He is going to the University of Michigan to persue Ph.D. study, under the supervision of [Prof. Wei Hu](http://weihu.me/). 
 
 ## Contact & Other info
 + E-mail: yongyi at umich dot edu
 + github: [FFTYYY](https://github.com/FFTYYY)
++ google scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
++ WeChat: [yyyern](/images/wechat.jpg)
 
 ## Publications and Manuscripts
++   [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)
+	*Hongjoon Ahn,__Yongyi Yang__, Quan Gan, David Wipf, Taesup Moon*
+
+	Neurips 2022
 
 +	[Transformers from an Optimization Perspective](https://arxiv.org/abs/2205.13891)
 	*__Yongyi Yang__, Zengfeng Huang, David Wipf*
 
-	arxiv preprint
+	Neurips 2022
 
 +	[Why Propagate Alone? Parallel Use of Labels and Features on Graphs](https://arxiv.org/abs/2110.07190)
 	*Yangkun Wang, Jiarui Jin, Weinan Zhang, __Yongyi Yang__, Jiuhai Chen, Quan Gan, Yong Yu, Zheng Zhang, Zengfeng Huang, David Wipf*
@@ -45,4 +50,4 @@ He is going to the University of Michigan to persue Ph.D. study, under the super
 
 	arxiv preprint 
 
-(Last update: 22/06/09)
+(Last update: 10/18/2022)
