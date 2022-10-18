@@ -14,9 +14,9 @@ Before that, Yongyi received Bachelor of Science from Fudan university, under th
 
 ## Contact & Other info
 + E-mail: yongyi at umich dot edu
-+ github: [FFTYYY](https://github.com/FFTYYY)
-+ google scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
++ GitHub: [FFTYYY](https://github.com/FFTYYY)
 + WeChat: [yyyern](/images/wechat.jpg)
++ Google Scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
 
 ## Publications and Manuscripts
 +   [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)
