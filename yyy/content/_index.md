@@ -7,7 +7,7 @@ description: "A personal website of Yang Yongyi."
 
 # Yongyi Yang (杨永祎)
 
-Yongyi is a first-year Ph.D. student at University of Michigan, under the supervision of [Prof. Wei Hu](http://weihu.me/). His recent research interests include graph representation learning and the scientific foundations of deep learning. 
+Yongyi is a first-year Ph.D. student at University of Michigan, under the supervision of [Prof. Wei Hu](http://weihu.me/). His recent research interests include graph neural networks and the foundations of deep learning.
 
 Before that, Yongyi received Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
 
@@ -19,6 +19,12 @@ Before that, Yongyi received Bachelor of Science from Fudan university, under th
 + Google Scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
 
 ## Publications and Manuscripts
++   Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations
+	*__Yongyi Yang__, Jacob Steinhardt, Wei Hu*
+
+	ICML 2023
+
+
 +   [Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2206.11081)
 	*Hongjoon Ahn,__Yongyi Yang__, Quan Gan, David Wipf, Taesup Moon*
 
