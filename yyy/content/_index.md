@@ -11,7 +11,7 @@ Yongyi is a first-year Ph.D. student at University of Michigan, under the superv
 
 Before that, Yongyi received Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
 
-Besides academic research, he also harbors a passion in mathematics, Chinese classical literature and [XiaoXue](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%AD%B8_(%E7%B6%93%E5%AD%B8)). Feel free to contact if you share these interests.
+Besides academic research, Yongyi also harbors a passion in mathematics, Chinese classical literature and [XiaoXue](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%AD%B8_(%E7%B6%93%E5%AD%B8)). Feel free to contact if you share the same interests.
 
 ## Contact & Other info
 + E-mail: yongyi at umich dot edu
