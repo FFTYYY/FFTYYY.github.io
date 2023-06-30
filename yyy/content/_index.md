@@ -20,7 +20,7 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 + Google Scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
 
 ## Publications and Manuscripts
-+   Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations
++   [Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations](https://arxiv.org/abs/2306.17105)
 	*__Yongyi Yang__, Jacob Steinhardt, Wei Hu*
 
 	ICML 2023
@@ -57,4 +57,4 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 	arxiv preprint 
 
-(Last update: 04/26/2023)
+(Last update: 06/30/2023)
