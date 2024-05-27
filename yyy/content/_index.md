@@ -7,7 +7,7 @@ description: "A personal website of Yang Yongyi."
 
 # Yongyi Yang (杨永祎)
 
-Yongyi is a second-year Ph.D. student at University of Michigan, under the supervision of [Prof. Wei Hu](http://weihu.me/). His recent research interests include graph neural networks and the foundations of deep learning.
+Yongyi is a second-year Ph.D. student at University of Michigan, under the supervision of [Prof. Wei Hu](http://weihu.me/). Currently, he is having an internship at [NTT Research at Harvard](https://cbs.fas.harvard.edu/research/theory/), advised by [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His recent research interests include graph neural networks and the foundations of deep learning.
 
 Before that, Yongyi received Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
 
@@ -21,10 +21,15 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 ## Publications and Manuscripts
 
++   [HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks](https://arxiv.org/abs/2403.18142)
+	*__Yongyi Yang__, Jiaming Yang, Wei Hu, Michał Dereziński*
+
+	arxiv preprint
+
 +   [Going Beyond Linear Mode Connectivity: The Layerwise Linear Feature Connectivity](https://arxiv.org/abs/2307.08286)
 	*Zhanpeng Zhou, __Yongyi Yang__, Xiaojiang Yang, Junchi Yan, Wei Hu*
 
-	arxiv preprint
+	Neurips 2023
 
 +   [Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations](https://arxiv.org/abs/2306.17105)
 	*__Yongyi Yang__, Jacob Steinhardt, Wei Hu*
@@ -62,4 +67,4 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 	arxiv preprint 
 
-(Last update: 08/30/2023)
+(Last update: 05/24/2024)
