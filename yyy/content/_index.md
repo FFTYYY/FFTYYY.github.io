@@ -3,11 +3,17 @@ title: Home
 description: "A personal website of Yang Yongyi."
 ---
 
+<style>
+#_end ~ * {
+	display: none;
+}
+</style>
+
 <img src="/images/partywizard.gif" style="display:inline-block;">
 
 # Yongyi Yang (杨永祎)
 
-Yongyi is a second-year Ph.D. student at University of Michigan, under the supervision of [Prof. Wei Hu](http://weihu.me/). Currently, he is having an internship at [NTT Research at Harvard](https://cbs.fas.harvard.edu/research/theory/), advised by [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His recent research interests include graph neural networks and the foundations of deep learning.
+Yongyi is a third-year Ph.D. student at University of Michigan, under the supervision of [Prof. Wei Hu](http://weihu.me/). Currently, he is having an internship at [NTT Research at Harvard](https://cbs.fas.harvard.edu/research/theory/), advised by [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His recent research interests include graph neural networks and the foundations of deep learning.
 
 Before that, Yongyi received Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
 
@@ -18,6 +24,10 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 + GitHub: [FFTYYY](https://github.com/FFTYYY)
 + WeChat: [yyyern](/images/wechat.jpg)
 + Google Scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
+
+## Miscellaneous
+
++ I've added a page to collect some problems I've encountered during my research that I haven't yet solved. See [Problems](/post/problems/). If you have any insights on (or just want to discuss about) any of them, I would greatly appreciate hearing from you.
 
 ## Publications and Manuscripts
 
@@ -67,4 +77,12 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 	arxiv preprint 
 
-(Last update: 05/24/2024)
+
+## Community Service
+ - Conference reviewer @ ICML (2023, 2024), Neurips (2023, 2024), ICLR (2024).
+ - Workshop reviewer @ ICBINB (2023), W3L (2023).
+ - Journal reviewer @ TKDE , IEEE TSP.
+
+(Last update: 09/02/2024)
+
+<div id="_end"></div>

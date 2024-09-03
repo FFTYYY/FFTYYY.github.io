@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Yongyi Yang</title>
-    <link>/</link>
-    <description>Recent content in Home on Yongyi Yang</description>
+    <title>Posts on Yongyi Yang</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Yongyi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Problems</title>
       <link>/post/problems/</link>

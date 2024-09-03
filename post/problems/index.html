@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A page of my unsolved research problems.">
+    <title>Problems | Yongyi Yang</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="/css/theme-override.css">
+    <header>
+
+  <nav>
+    <ul>
+      
+      
+      <li class="pull-left ">
+        <a href="/">~/yongyi yang</a>
+      </li>
+      
+      
+      <li class="pull-left current">
+        <a href="/post/problems/">~/problems</a>
+      </li>
+      
+
+      
+
+    </ul>
+  </nav>
+</header>
+
+  </head>
+
+  <body>
+    <br/>
+
+<div class="article-meta">
+<h1><span class="title">Problems</span></h1>
+
+
+<p class="terms">
+  
+  
+  
+  
+  
+</p>
+</div>
+
+
+<div class="content-wrapper">
+  <main>
+    <script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$']],
+    displayMath: [['$$','$$']]
+  },
+    "HTML-CSS": {
+    scale: 80
+  }
+});
+</script>
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<style>
+    main{
+        margin: 0;
+        max-width: 100%;
+    }
+
+    .article-meta{
+        display: none;
+        border: none;
+    }
+</style>
+<p>This page is a collection of some of the unsolved problems during my research. Most of them are in a theoretical flavor but not necessarily a well-defined mathematical problem. Please feel free to conctact me if you have any ideas or thoughts about any of those problems.</p>
+<h2 id="problems">Problems</h2>
+<ol>
+<li>
+<p><strong>The Role of Symmetric Transformation</strong></p>
+<p><em>Related Paper: <a href="https://arxiv.org/abs/2205.13891">Transformers from an Optimization Perspective</a>.</em></p>
+<p>In <a href="https://arxiv.org/abs/2205.13891">this paper</a> we tried to explain an iterative process (e.g. forward process of an RNN) as the optimization process of an underlying optimization problem. For example, let $W \in \mathbb R^{n\times n}$ be a PSD matrix with a spectral radius $&lt; 1$ and $\sigma = \max(\cdot, 0)$ be the ReLU activation, then the update \begin{align}x^{(t+1)} = \sigma\left(Wx^{(t)}\right)\end{align}
+can be viewed as a projected-gradient step of the following optimization objective \begin{align}
+x^* = \arg\min_{x \in \mathbb R_+^n} \frac 12\left\|(I-W)x\right\|^2
+\end{align}
+with step size $ = 1$.</p>
+<p>Above we assumed $W$ is PSD, and it turns out that if $W$ is not PSD but only symmetric, we can still do the same thing by adopting some tricks. However, if $W$ is an asymmetric matrix (still, with spectral radius $&lt; 1$), then it will be very hard to explain the update as an optimization step, despite that we know the process will still converge.</p>
+<p>This raises to two questions. The first question is technical: if there is a way to find an optimization obejctive, such that the above process with asymetric $W$ can be explained as an optimization step, or if there is a way to prove that this is not possible? The second question is rather philosophical: it seems there is an essential distinction between symmetric and asymmetric matrices, in terms of the process derived by them, and is there anything deep underlying property (other than commenly known ones like diagonalizability) that explains this distinction?</p>
+</li>
+<li>
+<p><strong>The Stability of Matrix Spectral Approximation under Squaring</strong></p>
+<p><em>Related Paper: <a href="https://arxiv.org/abs/2403.18142">HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks</a>, see Appendix D.2.</em></p>
+<p>For two PD matrices $A,B$, we say their <strong>(spectral) approximation rate</strong> is $$\phi(A,B) = \max\left\{ \left\|B^{-1/2}AB^{-1/2}\right\|, \left\|A^{-1/2}BA^{-1/2}\right\| \right\},$$
+and if $\phi(A,B) \leq \epsilon$ we say $A$ is an $\epsilon$-approximator of $B$, denoted as $A \approx_{\epsilon} B$.</p>
+<p>it&rsquo;s not hard to prove that, in the worst case, if $A \approx_{\epsilon} B$ where $\epsilon &lt; \frac 12$, then $A^2 \approx_{\epsilon O(\kappa(A))} B^2$, where $\kappa(A)$ is the condition number of $A$. This means, even if two matrices are very good spectral approximator of each other, the spectral approximation rate of their squared version will be much larger when they are ill-conditioned.</p>
+<p>However, if we conduct experiments to verify this bound, we will not see the case: in most cases if two PD matrices are good spectral approximatiors of each other, then their square will also be very good spectral approximators. It turns out that only under a very rather extreme conidtion the upper bound will be tight. So the question is: under what condition this bound of the approximation rate of squared matrices will be tight?</p>
+<p>One hypothesis is that the tightness of this bound will be related to the matchness of the eigenspace of $A$ and $B$. In Appendix D.2 of <a href="https://arxiv.org/abs/2403.18142">this paper</a>, we studied a very special case: when $A$ has only one small eigenvalue and all of its other eigenvalues are large and equal (and so does $B$ because $A \approx B$). In this case we showed that the bound $\phi(A^2,B^2) \leq \epsilon O(\kappa(A))$ will be tight only when the eigenvectors corresponding to the smallest eigenvalue of $A$ and $B$ are very aligned (i.e. the angle between them is small) but not the same.</p>
+<p>I restate the question here to conclude. The technical part is: can we find a condition, such that under this condition $A \approx_{\epsilon} B$ implies $A^2 \approx_{\epsilon\tilde O(1)} B^2$? The more foundamental part is: what is the essential property that controls the spectral approximation rate of $A^2$ and $B^2$, given $A \approx_{\epsilon} B$ for a small $\epsilon$?</p>
+</li>
+</ol>
+
+    <a href="/"> >> Home</a>
+  </main>
+</div>
+    <footer>
+      
+<script>
+(function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+</script>
+
+      
+      <hr/>
+      Theme: Hugo-Classic | <a href="https://github.com/goodroot/hugo-classic">Github</a>
+      
+    </footer>
+  </body>
+</html>
+

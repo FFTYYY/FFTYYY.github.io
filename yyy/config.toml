@@ -29,12 +29,12 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
   tabWidth = 4
 
 [permalinks]
-  post = "/post/:year/:month/:day/:slug/"
+  post = "/post/:slug/"
 
-# [[menu.main]]
-#   name = "CV"
-#   url = "/CV.pdf"
-#   weight = 1
+[[menu.main]]
+  name = "problems"
+  url = "/post/problems/"
+  weight = 1
 # [[menu.main]]
 #   name = "Tags"
 #   url = "/tags/"
