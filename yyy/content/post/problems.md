@@ -55,7 +55,7 @@ This page is a collection of some of the unsolved problems during my research. M
     _Related Paper: [HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks](https://arxiv.org/abs/2403.18142), see Appendix D.2._
 
     For two PD matrices $A,B$, we say their **(spectral) approximation rate** is $$\phi(A,B) = \max\left\\{ \left\\|B^{-1/2}AB^{-1/2}\right\\|, \left\\|A^{-1/2}BA^{-1/2}\right\\| \right\\},$$
-    and if $\phi(A,B) \leq \epsilon$ we say $A$ is an $\epsilon$-approximator of $B$, denoted as $A \approx_{\epsilon} B$.
+    and if $\phi(A,B) \leq 1+\epsilon$ we say $A$ is an $\epsilon$-approximator of $B$, denoted as $A \approx_{\epsilon} B$.
 
     it's not hard to prove that, in the worst case, if $A \approx_{\epsilon} B$ where $\epsilon < \frac 12$, then $A^2 \approx_{\epsilon O(\kappa(A))} B^2$, where $\kappa(A)$ is the condition number of $A$. This means, even if two matrices are very good spectral approximator of each other, the spectral approximation rate of their squared version will be much larger when they are ill-conditioned. 
 
