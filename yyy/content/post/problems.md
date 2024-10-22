@@ -50,7 +50,7 @@ This page is a collection of some of the unsolved problems during my research. M
 
     This raises to two questions. The first question is technical: if there is a way to find an optimization obejctive, such that the above process with asymetric $W$ can be explained as an optimization step, or if there is a way to prove that this is not possible? The second question is rather philosophical: it seems there is an essential distinction between symmetric and asymmetric matrices, in terms of the process derived by them, and is there anything deep underlying property (other than commenly known ones like diagonalizability) that explains this distinction?  
 
-    Notice that, this question has a trivial solution: the distance from current point to the convergent point (if the process converges). However, this solution is non-interpretable since we usually can not predict which point the model converges to. So one additional constraint should be that the energy function must be with an explicit explaination or at least easier to compute than the convergent point (I still have not figured out what should be the most suitable constraint, and that is another problem...).  
+    Notice that, this problem has a trivial solution: the distance from current point to the convergent point (if the process converges). However, this solution is non-interpretable since we usually can not predict which point the model converges to. So one additional constraint should be that the energy function must be with an explicit explaination or at least easier to compute than the convergent point (I still have not figured out what should be the most suitable constraint, and that is another problem...).  
 
 2. __The Stability of Matrix Spectral Approximation under Squaring__
 
