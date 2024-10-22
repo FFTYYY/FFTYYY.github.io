@@ -50,7 +50,9 @@ This page is a collection of some of the unsolved problems during my research. M
 
     This raises to two questions. The first question is technical: if there is a way to find an optimization obejctive, such that the above process with asymetric $W$ can be explained as an optimization step, or if there is a way to prove that this is not possible? The second question is rather philosophical: it seems there is an essential distinction between symmetric and asymmetric matrices, in terms of the process derived by them, and is there anything deep underlying property (other than commenly known ones like diagonalizability) that explains this distinction?  
 
-1. __The Stability of Matrix Spectral Approximation under Squaring__
+    Notice that, this question has a trivial solution: the distance from current point to the convergent point (if the process converges). However, this solution is non-interpatable since we usually can not predict which point the model converges to. So one additional constraint should be that the energy function must be with an explicit explaination or at least easier to compute than the convergent point (I still have not figured out what should be the most suitable constraint, and that is another problem...).  
+
+2. __The Stability of Matrix Spectral Approximation under Squaring__
 
     _Related Paper: [HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks](https://arxiv.org/abs/2403.18142), see Appendix D.2._
 
@@ -61,6 +63,6 @@ This page is a collection of some of the unsolved problems during my research. M
 
     However, if we conduct experiments to verify this bound, we will not see the case: in most cases if two PD matrices are good spectral approximatiors of each other, then their square will also be very good spectral approximators. It turns out that only under a very rather extreme conidtion the upper bound will be tight. So the question is: under what condition this bound of the approximation rate of squared matrices will be tight?
 
-    One hypothesis is that the tightness of this bound will be related to the matchness of the eigenspace of $A$ and $B$. In Appendix D.2 of [this paper](https://arxiv.org/abs/2403.18142), we studied a very special case: when $A$ has only one small eigenvalue and all of its other eigenvalues are large and equal (and so does $B$ because $A \approx B$). In this case we showed that the bound $\phi(A^2,B^2) \leq \epsilon O(\kappa(A))$ will be tight only when the eigenvectors corresponding to the smallest eigenvalue of $A$ and $B$ are very aligned (i.e. the angle between them is small) but not the same.
+    One hypothesis is that the tightness of this bound will be related to the matchness of the eigenspace of $A$ and $B$. In Appendix D.2 of [this paper](https://arxiv.org/abs/2403.18142), we studied a very special case: when $A$ has only one small eigenvalue and all of its other eigenvalues are large and equal (and so does $B$ because $A \approx B$). In this case we showed that the bound $\phi(A^2,B^2) \leq 1+\epsilon O(\kappa(A))$ will be tight only when the eigenvectors corresponding to the smallest eigenvalue of $A$ and $B$ are very aligned (i.e. the angle between them is small) but not the same.
 
     I restate the question here to conclude. The technical part is: can we find a condition, such that under this condition $A \approx_{\epsilon} B$ implies $A^2 \approx_{\epsilon\tilde O(1)} B^2$? The more foundamental part is: what is the essential property that controls the spectral approximation rate of $A^2$ and $B^2$, given $A \approx_{\epsilon} B$ for a small $\epsilon$?
