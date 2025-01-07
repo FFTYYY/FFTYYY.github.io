@@ -13,9 +13,9 @@ description: "A personal website of Yang Yongyi."
 
 # Yongyi Yang (杨永祎)
 
-Yongyi is a third-year Ph.D. student at University of Michigan, under the supervision of [Prof. Wei Hu](http://weihu.me/). Currently, he is having an internship at [NTT Research at Harvard](https://cbs.fas.harvard.edu/research/theory/), advised by [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His recent research interests include graph neural networks and the foundations of deep learning.
+Yongyi is a third-year Ph.D. student at the University of Michigan, advised by [Prof. Wei Hu](http://weihu.me/). He had an internship at [NTT Research at Harvard](https://cbs.fas.harvard.edu/research/theory/) under the advisement of [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home), with whom he continues collaborating closely. His research focuses on understanding the foundations and principles of deep learning, spanning research areas such as deep learning theory, science of deep learning, and mechanistic interpretability. Besides, he is also broadly interested in many other exciting research topics of computer science, including quantization and graph neural networks.
 
-Before that, Yongyi received Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
+Yongyi received his Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
 
 Besides academic research, Yongyi also harbors a passion in mathematics, Chinese classical literature and [XiaoXue](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%AD%B8_(%E7%B6%93%E5%AD%B8)). Feel free to contact if you share the same interests.
 
@@ -30,6 +30,25 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 + I've added a page to collect some problems I've encountered during my research that I haven't yet solved. See [Problems](/post/problems/). If you have any insights on (or just want to discuss about) any of them, I would greatly appreciate hearing from you.
 
 ## Publications and Manuscripts
+
++  [ICLR: In-Context Learning of Representations](https://arxiv.org/abs/2501.00070)
+	*Core Francisco Park\*, Andrew Lee\*, Ekdeep Singh Lubana\*, __Yongyi Yang__\*, Maya Okawa, Kento Nishi, Martin Wattenberg, Hidenori Tanaka*
+
+	arxiv preprint
+
+
+
++  [Dynamics of Concept Learning and Compositional Generalization](https://arxiv.org/abs/2410.08309)
+	*__Yongyi Yang__, Core Francisco Park, Ekdeep Singh Lubana, Maya Okawa, Wei Hu, Hidenori Tanaka*
+
+	arxiv preprint
+
++  [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2409.09913)
+	*Jianyang Gao, Yutong Gou, Yuexuan Xu, __Yongyi Yang__, Cheng Long, Raymond Chi-Wing Wong*
+
+	arxiv preprint
+
+
 
 +   [HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks](https://arxiv.org/abs/2403.18142)
 	*__Yongyi Yang__, Jiaming Yang, Wei Hu, Michał Dereziński*
@@ -79,10 +98,10 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 
 ## Community Service
- - Conference reviewer @ ICML (2023, 2024), Neurips (2023, 2024), ICLR (2024).
+ - Conference reviewer @ ICML (2023, 2024), Neurips (2023, 2024), ICLR (2023, 2024, 2025).
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
- - Journal reviewer @ TKDE , IEEE TSP.
+ - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
 
-(Last update: 09/02/2024)
+(Last update: 01/07/2025)
 
 <div id="_end"></div>
