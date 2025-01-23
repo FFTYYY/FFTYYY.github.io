@@ -34,14 +34,14 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 +  [ICLR: In-Context Learning of Representations](https://arxiv.org/abs/2501.00070)
 	*Core Francisco Park\*, Andrew Lee\*, Ekdeep Singh Lubana\*, __Yongyi Yang__\*, Maya Okawa, Kento Nishi, Martin Wattenberg, Hidenori Tanaka*
 
-	arxiv preprint
+	ICLR 2025
 
 
 
 +  [Dynamics of Concept Learning and Compositional Generalization](https://arxiv.org/abs/2410.08309)
 	*__Yongyi Yang__, Core Francisco Park, Ekdeep Singh Lubana, Maya Okawa, Wei Hu, Hidenori Tanaka*
 
-	arxiv preprint
+	ICLR 2025
 
 +  [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2409.09913)
 	*Jianyang Gao, Yutong Gou, Yuexuan Xu, __Yongyi Yang__, Cheng Long, Raymond Chi-Wing Wong*
@@ -102,6 +102,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
 
-(Last update: 01/07/2025)
+(Last update: 01/23/2025)
 
 <div id="_end"></div>
