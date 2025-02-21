@@ -46,7 +46,8 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 +  [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2409.09913)
 	*Jianyang Gao, Yutong Gou, Yuexuan Xu, __Yongyi Yang__, Cheng Long, Raymond Chi-Wing Wong*
 
-	arxiv preprint
+	arXiv preprint arXiv:2409.09913 (September, 2024)
+	SIGMOD 2025
 
 
 
