@@ -46,10 +46,10 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 +  [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2409.09913)
 	*Jianyang Gao, Yutong Gou, Yuexuan Xu, __Yongyi Yang__, Cheng Long, Raymond Chi-Wing Wong*
 
-	arXiv preprint arXiv:2409.09913 (September, 2024)
 
 	<p>SIGMOD 2025<p>
 
+	<p>arXiv preprint arXiv:2409.09913 (September, 2024)<p>
 
 
 +   [HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks](https://arxiv.org/abs/2403.18142)
