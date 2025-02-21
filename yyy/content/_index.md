@@ -47,7 +47,8 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 	*Jianyang Gao, Yutong Gou, Yuexuan Xu, __Yongyi Yang__, Cheng Long, Raymond Chi-Wing Wong*
 
 	arXiv preprint arXiv:2409.09913 (September, 2024)
-	SIGMOD 2025
+
+	<p>SIGMOD 2025<p>
 
 
 
@@ -103,6 +104,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
 
-(Last update: 01/23/2025)
+(Last update: 02/21/2025)
 
 <div id="_end"></div>
