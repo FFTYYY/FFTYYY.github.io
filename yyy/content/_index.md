@@ -31,6 +31,11 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 ## Publications and Manuscripts
 
++  [RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm](https://arxiv.org/abs/2504.03717)
+	*__Yongyi Yang__, Jianyang Gao, Wei Hu*
+
+	arxiv preprint
+
 +  [ICLR: In-Context Learning of Representations](https://arxiv.org/abs/2501.00070)
 	*Core Francisco Park\*, Andrew Lee\*, Ekdeep Singh Lubana\*, __Yongyi Yang__\*, Maya Okawa, Kento Nishi, Martin Wattenberg, Hidenori Tanaka*
 
@@ -104,6 +109,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
 
-(Last update: 02/21/2025)
+(Last update: 04/07/2025)
 
 <div id="_end"></div>
