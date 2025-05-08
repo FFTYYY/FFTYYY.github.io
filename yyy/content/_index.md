@@ -96,7 +96,9 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 +	[Implicit vs Unfolded Graph Neural Networks](https://arxiv.org/abs/2111.06592)
 	*__Yongyi Yang__, Yangkun Wang, Tang Liu, Zengfeng Huang, David Wipf*
 
-	arxiv preprint
+	JMLR vol. 26, 2025 (in press)
+
+	arXiv preprint arXiv:2111.06592 (2021)
 
 +	[Relation of the Relations: A New Paradigm of the Relation Extraction Problem](https://arxiv.org/abs/2006.03719)
 	*Zhijing Jin\*, __Yongyi Yang\*__, Xipeng Qiu, Zheng Zhang*
@@ -109,6 +111,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
 
-(Last update: 04/07/2025)
+(Last update: 05/08/2025)
 
 <div id="_end"></div>
