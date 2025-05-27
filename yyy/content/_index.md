@@ -31,6 +31,11 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 ## Publications and Manuscripts
 
++  [New Evidence of the Two-Phase Learning Dynamics of Neural Networks](https://arxiv.org/abs/2505.13900)
+	*Zhanpeng Zhou, __Yongyi Yang__, Mahito Sugiyama, Junchi Yan*
+
+	arxiv preprint
+
 +  [RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm](https://arxiv.org/abs/2504.03717)
 	*__Yongyi Yang__, Jianyang Gao, Wei Hu*
 
@@ -111,6 +116,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
 
-(Last update: 05/08/2025)
+(Last update: 05/27/2025)
 
 <div id="_end"></div>
