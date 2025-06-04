@@ -27,6 +27,8 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 ## Miscellaneous
 
++ I recently published an npm package [mouseless](https://github.com/FFTYYY/mouseless), that helps to define high-level keyboard interactions in UI development.
+
 + I've added a page to collect some problems I've encountered during my research that I haven't yet solved. See [Problems](/post/problems/). If you have any insights on (or just want to discuss about) any of them, I would greatly appreciate hearing from you.
 
 ## Publications and Manuscripts
@@ -116,6 +118,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
 
-(Last update: 05/27/2025)
+(Last update: 06/04/2025)
 
 <div id="_end"></div>
