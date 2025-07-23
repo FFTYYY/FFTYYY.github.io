@@ -33,6 +33,11 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 ## Publications and Manuscripts
 
++  [Provable Low-Frequency Bias of In-Context Learning of Representations](https://arxiv.org/abs/2507.13540)
+    *__Yongyi Yang__, Hidenori Tanaka, Wei Hu*
+
+	arxiv preprint
+
 +  [New Evidence of the Two-Phase Learning Dynamics of Neural Networks](https://arxiv.org/abs/2505.13900)
 	*Zhanpeng Zhou, __Yongyi Yang__, Mahito Sugiyama, Junchi Yan*
 
@@ -118,6 +123,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
 
-(Last update: 06/04/2025)
+(Last update: 07/22/2025)
 
 <div id="_end"></div>
