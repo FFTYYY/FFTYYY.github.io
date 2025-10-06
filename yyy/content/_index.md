@@ -13,7 +13,7 @@ description: "A personal website of Yang Yongyi."
 
 # Yongyi Yang (杨永祎)
 
-Yongyi is a third-year Ph.D. student at the University of Michigan, advised by [Prof. Wei Hu](http://weihu.me/). He had an internship at [NTT Research at Harvard](https://cbs.fas.harvard.edu/research/theory/) under the advisement of [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home), with whom he continues collaborating closely. His research focuses on understanding the foundations and principles of deep learning, spanning research areas such as deep learning theory, science of deep learning, and mechanistic interpretability. Besides, he is also broadly interested in many other exciting research topics of computer science, including quantization and graph neural networks.
+Yongyi is a fourth-year Ph.D. student at the University of Michigan, advised by [Prof. Wei Hu](http://weihu.me/). He is currently doing an internship at [NTT Research PAI Group](https://ntt-research.com/pai-group/) under the advisement of [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His research focuses on understanding the foundations and principles of deep learning, spanning research areas such as deep learning theory, science of deep learning, and mechanistic interpretability. Besides, he is also broadly interested in many other research topics of broad interest within AI, including large language model quantization and graph neural networks.
 
 Yongyi received his Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
 
@@ -32,6 +32,11 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 + I've added a page to collect some problems I've encountered during my research that I haven't yet solved. See [Problems](/post/problems/). If you have any insights on (or just want to discuss about) any of them, I would greatly appreciate hearing from you.
 
 ## Publications and Manuscripts
+
++  [Topological Invariance and Breakdown in Learning](https://arxiv.org/abs/2510.02670)
+    *__Yongyi Yang__, Tomaso Poggio, Isaac Chuang, Liu Ziyin*
+
+	arxiv preprint
 
 +  [Provable Low-Frequency Bias of In-Context Learning of Representations](https://arxiv.org/abs/2507.13540)
     *__Yongyi Yang__, Hidenori Tanaka, Wei Hu*
@@ -55,7 +60,7 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 
 
-+  [Dynamics of Concept Learning and Compositional Generalization](https://arxiv.org/abs/2410.08309)
++  [Swing-by Dynamics in Concept Learning and Compositional Generalization](https://arxiv.org/abs/2410.08309)
 	*__Yongyi Yang__, Core Francisco Park, Ekdeep Singh Lubana, Maya Okawa, Wei Hu, Hidenori Tanaka*
 
 	ICLR 2025
@@ -64,9 +69,9 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 	*Jianyang Gao, Yutong Gou, Yuexuan Xu, __Yongyi Yang__, Cheng Long, Raymond Chi-Wing Wong*
 
 
-	<p>SIGMOD 2025<p>
+	SIGMOD 2025
 
-	<p>arXiv preprint arXiv:2409.09913 (September, 2024)<p>
+	arXiv preprint arXiv:2409.09913 (September, 2024)
 
 
 +   [HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks](https://arxiv.org/abs/2403.18142)
@@ -108,7 +113,7 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 +	[Implicit vs Unfolded Graph Neural Networks](https://arxiv.org/abs/2111.06592)
 	*__Yongyi Yang__, Yangkun Wang, Tang Liu, Zengfeng Huang, David Wipf*
 
-	JMLR vol. 26, 2025 (in press)
+	JMLR vol. 26, 2025 
 
 	arXiv preprint arXiv:2111.06592 (2021)
 
@@ -119,10 +124,10 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 
 ## Community Service
- - Conference reviewer @ ICML (2023, 2024), Neurips (2023, 2024), ICLR (2023, 2024, 2025).
+ - Conference reviewer @ ICML (2023, 2024, 2025), Neurips (2023, 2024, 2025), ICLR (2023, 2024, 2025, 2026).
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
- - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS.
+ - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS, IEEE TPAMI.
 
-(Last update: 07/22/2025)
+(Last update: 10/25/2025)
 
 <div id="_end"></div>
