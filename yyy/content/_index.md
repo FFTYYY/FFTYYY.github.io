@@ -128,6 +128,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS, IEEE TPAMI.
 
-(Last update: 10/25/2025)
+(Last update: 10/05/2025)
 
 <div id="_end"></div>
