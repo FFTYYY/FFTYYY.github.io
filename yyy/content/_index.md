@@ -33,6 +33,11 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 ## Publications and Manuscripts
 
++  [An Equivariance Toolbox for Learning Dynamics](https://arxiv.org/abs/2512.21447)
+	*__Yongyi Yang__, Liu Ziyin*
+
+	arxiv preprint
+
 +  [Topological Invariance and Breakdown in Learning](https://arxiv.org/abs/2510.02670)
     *__Yongyi Yang__, Tomaso Poggio, Isaac Chuang, Liu Ziyin*
 
