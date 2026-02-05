@@ -13,7 +13,7 @@ description: "A personal website of Yang Yongyi."
 
 # Yongyi Yang (杨永祎)
 
-Yongyi is a fourth-year Ph.D. student at the University of Michigan, advised by [Prof. Wei Hu](http://weihu.me/). He is currently doing an internship at [NTT Research PAI Group](https://ntt-research.com/pai-group/) under the advisement of [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His research focuses on understanding the foundations and principles of deep learning, spanning research areas such as deep learning theory, science of deep learning, and mechanistic interpretability. Besides, he is also broadly interested in many other research topics of broad interest within AI, including large language model quantization and graph neural networks.
+Yongyi is a fourth-year Ph.D. student at the University of Michigan, advised by [Prof. Wei Hu](http://weihu.me/). He is an intern in the [NTT Research PAI Group](https://ntt-research.com/pai-group/) at Harvard University, as part of the Harvard CBS-NTT program, under the advisement of [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His research focuses on understanding the foundations and principles of deep learning, spanning research areas such as deep learning theory, science of deep learning, and mechanistic interpretability. Besides, he is also broadly interested in many other research topics of broad interest within AI and theory, including efficient implementation of AI algorithms and learning on graphs.
 
 Yongyi received his Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
 
@@ -31,7 +31,13 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 + I've added a page to collect some problems I've encountered during my research that I haven't yet solved. See [Problems](/post/problems/). If you have any insights on (or just want to discuss about) any of them, I would greatly appreciate hearing from you.
 
-## Publications and Manuscripts
+## Publications and Manuscript
+
++  [SNIP: An Adaptive Mixed Precision Framework for Subbyte Large Language Model Training](https://www.arxiv.org/abs/2602.01410)
+	*Yunjie Pan, __Yongyi Yang__, Hanmei Yang, Scott Mahlke*
+	
+	ASPLOS 2026
+
 
 +  [mHC-lite: You Don't Need 20 Sinkhorn-Knopp Iterations](https://arxiv.org/abs/2601.05732)
 	*__Yongyi Yang__\*, Jianyang Gao\**
@@ -138,6 +144,6 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS, IEEE TPAMI.
 
-(Last update: 10/05/2025)
+(Last update: 02/06/2026)
 
 <div id="_end"></div>
