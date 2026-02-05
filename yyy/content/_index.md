@@ -140,7 +140,7 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 
 ## Community Service
- - Conference reviewer @ ICML (2023, 2024, 2025), Neurips (2023, 2024, 2025), ICLR (2023, 2024, 2025, 2026).
+ - Conference reviewer @ ICML (2023, 2024, 2025), NeurIPS (2023, 2024, 2025), ICLR (2023, 2024, 2025, 2026).
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS, IEEE TPAMI.
 
