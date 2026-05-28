@@ -13,11 +13,11 @@ description: "A personal website of Yang Yongyi."
 
 # Yongyi Yang (杨永祎)
 
-Yongyi is a fourth-year Ph.D. student at the University of Michigan, advised by [Prof. Wei Hu](http://weihu.me/). He is an intern in the [NTT Research PAI Group](https://ntt-research.com/pai-group/) at Harvard University, as part of the Harvard CBS-NTT program, under the advisement of [Dr. Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His research focuses on understanding the foundations and principles of deep learning, spanning research areas such as deep learning theory, science of deep learning, and mechanistic interpretability. Besides, he is also broadly interested in many other research topics of broad interest within AI and theory, including efficient implementation of AI algorithms and learning on graphs.
+Yongyi is a postdoctoral researcher in the [CBS-NTT Program in Physics of Intelligence](https://news.harvard.edu/gazette/story/newsplus/gift-establishes-new-program-in-physics-of-intelligence-at-center-for-brain-science/) at Harvard University, working with [Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His research focuses on understanding the foundations and principles of deep learning, spanning research areas such as deep learning theory, science of deep learning, and mechanistic interpretability. Besides, he is also broadly interested in many other research topics in AI and theory, including efficient implementation of AI algorithms and learning on graphs.
 
-Yongyi received his Bachelor of Science from Fudan university, under the supervision of [Prof. Xipeng Qiu](https://xpqiu.github.io/). He also had an internship at [Amazon Shanghai AI Lab](https://www.amazonaws.cn/en/ailab/ "this website is too ugly...") and has his fortune to be advised by [Dr. David Wipf](http://www.davidwipf.com/) and [Prof. Zengfeng Huang](https://zengfenghuang.github.io/).
+Yongyi received his Ph.D. at the University of Michigan, advised by [Wei Hu](http://weihu.me/). Before that, he received his Bachelor of Science from Fudan University, under the advisedment of [Xipeng Qiu](https://xpqiu.github.io/), [David Wipf](http://www.davidwipf.com/) and [Zengfeng Huang](https://zengfenghuang.github.io/). 
 
-Besides academic research, Yongyi also harbors a passion in mathematics, Chinese classical literature and [XiaoXue](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%AD%B8_(%E7%B6%93%E5%AD%B8)). Feel free to contact if you share the same interests.
+Besides academic research, Yongyi also has a passion for mathematics, Chinese classical literature and [Xiaoxue](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%AD%B8_(%E7%B6%93%E5%AD%B8)). Feel free to contact if you would like to connect.
 
 ## Contact & Other info
 + E-mail: yongyi at umich dot edu
@@ -140,10 +140,10 @@ Besides academic research, Yongyi also harbors a passion in mathematics, Chinese
 
 
 ## Community Service
- - Conference reviewer @ ICML (2023, 2024, 2025), NeurIPS (2023, 2024, 2025), ICLR (2023, 2024, 2025, 2026).
+ - Conference reviewer @ ICML (2023, 2024, 2025, 2026), NeurIPS (2023, 2024, 2025), ICLR (2023, 2024, 2025, 2026).
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS, IEEE TPAMI.
 
-(Last update: 02/06/2026)
+(Last update: 05/28/2026)
 
 <div id="_end"></div>
