@@ -27,6 +27,8 @@ Besides academic research, Yongyi also has a passion for mathematics, Chinese cl
 
 ## Miscellaneous
 
++ [Mutsumi-chan is kawaii!](https://www.nexusmods.com/slaythespire2/mods/915)
+
 + I recently published an npm package [mouseless](https://github.com/FFTYYY/mouseless), that helps to define high-level keyboard interactions in UI development.
 
 + I've added a page to collect some problems I've encountered during my research that I haven't yet solved. See [Problems](/post/problems/). If you have any insights on (or just want to discuss about) any of them, I would greatly appreciate hearing from you.
