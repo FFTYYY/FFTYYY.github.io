@@ -15,7 +15,7 @@ description: "A personal website of Yang Yongyi."
 
 Yongyi is a postdoctoral researcher in the [CBS-NTT Program in Physics of Intelligence](https://cbs.fas.harvard.edu/research/theory/#cbs-ntt/) at Harvard University, working with [Hidenori Tanaka](https://sites.google.com/view/htanaka/home). His research focuses on understanding the foundations and principles of deep learning, spanning research areas such as deep learning theory, science of deep learning, and mechanistic interpretability. Besides, he is also broadly interested in many other research topics in AI and theory, including efficient implementation of AI algorithms and learning on graphs.
 
-Yongyi received his Ph.D. from the University of Michigan where he was advised by [Wei Hu](http://weihu.me/) and worked closely with [Hidenori Tanaka](https://sites.google.com/view/htanaka/home). Before that, he received his Bachelor of Science from Fudan University, under the advisement of [Xipeng Qiu](https://xpqiu.github.io/), [David Wipf](http://www.davidwipf.com/) and [Zengfeng Huang](https://zengfenghuang.github.io/). 
+Yongyi received his Ph.D. from the University of Michigan where he was advised by [Wei Hu](http://weihu.me/) and [Hidenori Tanaka](https://sites.google.com/view/htanaka/home). Before that, he received his Bachelor of Science from Fudan University, under the advisement of [Xipeng Qiu](https://xpqiu.github.io/), [David Wipf](http://www.davidwipf.com/) and [Zengfeng Huang](https://zengfenghuang.github.io/). 
 
 Besides academic research, Yongyi also has a passion for mathematics, Chinese classical literature and [Xiaoxue](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%AD%B8_(%E7%B6%93%E5%AD%B8)). Feel free to contact if you would like to connect.
 
