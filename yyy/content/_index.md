@@ -20,7 +20,7 @@ Yongyi received his Ph.D. from the University of Michigan, advised by [Wei Hu](h
 Besides academic research, Yongyi also has a passion for mathematics, Chinese classical literature and [Xiaoxue](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%AD%B8_(%E7%B6%93%E5%AD%B8)). Feel free to contact if you would like to connect.
 
 ## Contact & Other info
-+ E-mail: yongyi at umich dot edu
++ E-mail: yongyi@umich.edu (preferred) / yongyiyang@fas.harvard.edu
 + GitHub: [FFTYYY](https://github.com/FFTYYY)
 + WeChat: [yyyern](/images/wechat.jpg)
 + Google Scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
