@@ -54,7 +54,7 @@ Besides academic research, Yongyi also has a passion for mathematics, Chinese cl
 +  [Topological Invariance and Breakdown in Learning](https://arxiv.org/abs/2510.02670)
     *__Yongyi Yang__, Tomaso Poggio, Isaac Chuang, Liu Ziyin*
 
-	arxiv preprint
+	Neurips 2026
 
 +  [Provable Low-Frequency Bias of In-Context Learning of Representations](https://arxiv.org/abs/2507.13540)
     *__Yongyi Yang__, Hidenori Tanaka, Wei Hu*
@@ -146,6 +146,6 @@ Besides academic research, Yongyi also has a passion for mathematics, Chinese cl
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS, IEEE TPAMI.
 
-(Last update: 05/28/2026)
+(Last update: 09/25/2026)
 
 <div id="_end"></div>
