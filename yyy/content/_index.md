@@ -26,7 +26,7 @@ Besides academic research, Yongyi also has a passion for mathematics, Chinese cl
 + Google Scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
 
 ## Miscellaneous
-+ [Scriptorium Aleae](https://github.com/FFTYYY/ScriptoriumAleae)is a dice rolling simulator with realistic physics.
++ [Scriptorium Aleae](https://github.com/FFTYYY/ScriptoriumAleae) is a dice rolling simulator with realistic physics.
 
 + I recently built [Vallotton](https://fftyyy.github.io/ProjectVallotton/en/index.html), an AI image-generation workstation designed to improve the experience of working with tag-based image generation models.
 
