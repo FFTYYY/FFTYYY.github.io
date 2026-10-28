@@ -26,9 +26,11 @@ Besides academic research, Yongyi also has a passion for mathematics, Chinese cl
 + Google Scholar: [Yongyi Yang](https://scholar.google.com/citations?user=EmL0jD0AAAAJ&h)
 
 ## Miscellaneous
-+ Just for fun: I created [Vallotton](https://fftyyy.github.io/ProjectVallotton/en/index.html), an AI image generation workstation.
++ [Scriptorium Aleae](https://github.com/FFTYYY/ScriptoriumAleae)is a dice rolling simulator with realistic physics.
 
-+ [Mutsumi-chan is kawaii!](https://www.nexusmods.com/slaythespire2/mods/915). (Check this mod on [steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3747958062))
++ I recently built [Vallotton](https://fftyyy.github.io/ProjectVallotton/en/index.html), an AI image-generation workstation designed to improve the experience of working with tag-based image generation models.
+
++ [Mutsumi-chan is kawaii!](https://steamcommunity.com/sharedfiles/filedetails/?id=3747958062).
 
 + I recently published an npm package [mouseless](https://github.com/FFTYYY/mouseless), that helps to define high-level keyboard interactions in UI development.
 
@@ -147,6 +149,6 @@ Besides academic research, Yongyi also has a passion for mathematics, Chinese cl
  - Workshop reviewer @ ICBINB (2023), W3L (2023).
  - Journal reviewer @ IEEE TKDE , IEEE TSP, IEEE TNNLS, IEEE TPAMI.
 
-(Last update: 09/25/2026)
+(Last update: 10/29/2026)
 
 <div id="_end"></div>
